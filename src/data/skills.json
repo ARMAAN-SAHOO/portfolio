@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/sb.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/pyhton.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Cryprography for IoRT (Internet of Robotic Things)",
+    "imageSrc": "projects/crypto.png",
+    "description": "A chaotic encryption mechanism has been developed for efficient encryption of large-scale data, such as images and videos, in robots. Tested on the NVIDIA Jetson Orin development kit, the system is high-performance and energy-efficient. ",
+    "skills": ["Python", "Cryptography","IoRT"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ARMAAN-SAHOO/Light-Weight-Image-Encryption-for-IoRT"
+  },
+  {
+    "title": "Health Monitoring System (Heart Disease Prediction)",
+    "imageSrc": "projects/ml.png",
+    "description": "A machine learning-based system designed to predict heart disease,integrated with Google Firebase for data storage and analysis, and deployed on an Android app.Aims to assist healthcare organizations and patients by providing accurate predictions ",
+    "skills": ["Python", "Machine Learning", "Flutter","Andriod"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ARMAAN-SAHOO/heart-disease-predictor"
+  }
+]
